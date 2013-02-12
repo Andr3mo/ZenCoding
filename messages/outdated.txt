@@ -4,7 +4,7 @@ any updates in future. In two weeks the repo will <s>be unpublished.</s>
 
         Tue Feb 12 13:13:52 2013:
 
-            AS PORTENDED THIS REPO HAS BEEN UNPUBLISHED
+            AS PORTENDED 3 MONTHS PRIOR THIS REPO HAS BEEN UNPUBLISHED
 
 
 Consider switching to Emmet -- a re-branded Zen Coding project
